@@ -1,0 +1,56 @@
+Uruguay,1961
+Virgin Islands (U.S.),1962
+Congo, Dem. Rep.,1963
+Argentina,1964
+Equatorial Guinea,1965
+Afghanistan,1966
+Oman,1967
+Oman,1968
+Swaziland,1969
+Nigeria,1970
+Kuwait,1971
+Seychelles,1972
+Uruguay,1973
+Oman,1974
+Rwanda,1975
+Gabon,1976
+St. Vincent and the Grenadines,1977
+Liechtenstein,1978
+Kuwait,1979
+Brunei Darussalam,1980
+Guinea-Bissau,1981
+Uganda,1982
+Costa Rica,1983
+Maldives,1984
+Central African Republic,1985
+Vietnam,1986
+Uganda,1987
+Zambia,1988
+Angola,1989
+Iraq,1990
+Gambia, The,1991
+Kuwait,1992
+Albania,1993
+Nicaragua,1994
+Rwanda,1995
+Equatorial Guinea,1996
+Equatorial Guinea,1997
+Turkey,1998
+Equatorial Guinea,1999
+Congo, Dem. Rep.,2000
+Serbia,2001
+Malawi,2002
+Myanmar,2003
+Equatorial Guinea,2004
+Equatorial Guinea,2005
+Ghana,2006
+Isle of Man,2007
+Nauru,2008
+Zimbabwe,2009
+Nigeria,2010
+Nauru,2011
+Nauru,2012
+Sierra Leone,2013
+Ethiopia,2014
+Sudan,2015
+Iceland,2016
